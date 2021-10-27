@@ -1,5 +1,5 @@
 # First scenario
-Simpliest way to implement this script and make it executable on both of Linux/MacOs - use Python 2.7.
+Simplest way to implement this script and make it executable on both of Linux/MacOs - use Python 2.7.
 Python 2.7 is obsolete one but it is included to distros by default as system language. 
 In addition newer versions of python are compatible with 2.7, it means that this script will be executed on newer versions as well.
 
